@@ -6,6 +6,8 @@
 }
 
 @import "partials/colors";
+@import "partials/header";
+@import "partials/layout";
 
 body{
     font-family: 'Sora', sans-serif;
@@ -14,7 +16,6 @@ body{
     position: relative;
 
     background-color: $primary-normal;
-
 }
 
 button{
